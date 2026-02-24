@@ -6,3 +6,7 @@ Focused on education and development economics using applied microeconometrics a
 Graduate Level Coursework: Price Theory; Empirical Analysis I & II; Microeconomics of Development; Economics of Education.
 
 Tools: R, Stata, Python.
+
+Projects I am working on:
+
+* [Data task example]([https://github.com/steicycodes/educ_datataask.git])
