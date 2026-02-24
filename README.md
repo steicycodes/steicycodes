@@ -9,4 +9,4 @@ Tools: R, Stata, Python.
 
 Projects I am working on:
 
-* [Data task example]([https://github.com/steicycodes/educ_datataask.git])
+* [Data task example](https://github.com/steicycodes/educ_datataask.git)
