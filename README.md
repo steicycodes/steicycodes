@@ -10,3 +10,6 @@ Tools: R, Stata, Python.
 Projects I am working on:
 
 * [Data task example](https://github.com/steicycodes/educ_datataask.git)
+
+To take a look at my undergraduate thesis on school choice:
+* [The Switch: Determinants of Family School Modality Choices during the COVID-19 Pandemic](https://github.com/steicycodes/school_modality2025.git)
