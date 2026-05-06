@@ -2,7 +2,7 @@
 
 M.A. in Economics ('26) at the University of Chicago.
 
-Focused on education and development economics using applied microeconometrics and causal inference methods.
+Focused on education and development economics using causal inference methods.
 
 Graduate Level Coursework: Price Theory; Empirical Analysis I & II; Microeconomics of Development; Ph.D. Economics of Education; Real Analysis.
 
